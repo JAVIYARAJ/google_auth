@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleAuth</string>
+    <string name="javiya_raj">javiya raj</string>
+    <string name="logout">Logout</string>
+    <string name="login_with_google">Login with google</string>
+</resources>
